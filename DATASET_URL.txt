@@ -1,0 +1,1 @@
+https://zenodo.org/records/10519652/files/octmnist.npz?download=1
