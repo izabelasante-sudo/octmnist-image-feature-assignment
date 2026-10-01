@@ -1,0 +1,18 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# The 109,309-image official archive is reproducibly downloaded by the script.
+# The selected 500-image assignment dataset remains tracked below data/selected/.
+data/raw/*.npz
+data/raw/*.part
+
+# These 500 PNG copies are regenerated from the tracked subset NPZ by script 01.
+data/selected/images/
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
