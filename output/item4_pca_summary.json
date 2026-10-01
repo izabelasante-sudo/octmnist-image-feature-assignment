@@ -1,0 +1,16 @@
+{
+  "input_shape": [
+    500,
+    36
+  ],
+  "output_shape": [
+    500,
+    2
+  ],
+  "explained_variance_ratio": [
+    0.56953687934729,
+    0.18911697522102872
+  ],
+  "total_explained_variance_ratio": 0.7586538545683188,
+  "note": "PCA was fit without class labels; labels were used only for plot colors."
+}

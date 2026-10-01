@@ -1,0 +1,26 @@
+{
+  "0": {
+    "class_name": "choroidal neovascularization",
+    "combined_subset_index": 30,
+    "split": "train",
+    "source_index": 55166
+  },
+  "1": {
+    "class_name": "diabetic macular edema",
+    "combined_subset_index": 84,
+    "split": "train",
+    "source_index": 16552
+  },
+  "2": {
+    "class_name": "drusen",
+    "combined_subset_index": 217,
+    "split": "train",
+    "source_index": 64089
+  },
+  "3": {
+    "class_name": "normal",
+    "combined_subset_index": 274,
+    "split": "train",
+    "source_index": 93683
+  }
+}

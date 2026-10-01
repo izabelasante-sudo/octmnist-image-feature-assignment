@@ -1,0 +1,4 @@
+class_1,class_2,metric,distance
+choroidal neovascularization,normal,Euclidean distance,66.87301398920195
+choroidal neovascularization,normal,Manhattan distance,268.0
+choroidal neovascularization,normal,Cosine distance,0.025762243408747887
